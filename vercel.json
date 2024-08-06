@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://web.actionera.com/lotushaven/$1"
+ }
+  ]
+}
